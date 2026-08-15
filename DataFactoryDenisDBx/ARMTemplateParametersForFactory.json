@@ -8,8 +8,14 @@
 		"Adls2Adf_ls_accountKey": {
 			"value": ""
 		},
+		"AzureDatabricks_accessToken": {
+			"value": ""
+		},
 		"Adls2Adf_ls_properties_typeProperties_url": {
 			"value": "https://adlsdatadenis.dfs.core.windows.net/"
+		},
+		"AzureDatabricks_properties_typeProperties_existingClusterId": {
+			"value": "0815-042518-rsy4k1uq"
 		},
 		"AzureKeyVault_properties_typeProperties_baseUrl": {
 			"value": "https://denisDBxKV.vault.azure.net/"
